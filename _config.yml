@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Arnoud van der Leer"
+title                    : "drs. ir. Arnoud van der Leer"
 title_separator          : "-"
 name                     : &name "Arnoud van der Leer"
-description              : &description "Mathematician and (almost) Computer Scientist"
+description              : &description "Mathematician and Computer Scientist"
 url                      : https://arnoudvanderleer.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "arnoudvanderleer/arnoudvanderleer.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Arnoud van der Leer"
   avatar           : "profile.jpeg"
-  bio              : "Mathematician, (almost) Computer Scientist. Interested and educated in pure math (Algebraic Geometry, specialized towards Number Theory) and proof assistants."
+  bio              : "Mathematician, Computer Scientist. Interested and educated in formal methods and pure math (Algebraic Geometry, specialized towards Number Theory)."
   location         : "Leiden, The Netherlands"
   employer         :
   pubmed           : 
