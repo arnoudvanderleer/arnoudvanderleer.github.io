@@ -11,17 +11,17 @@ redirect_from:
 
 Personal Profile
 ===
-I am a reliable person and a team player. I am a curious person, who is eager to learn. I am a mathematician through and through; always thinking about puzzles. Specifically, I have been educated as an arithmetic geometer and I have a broad interest that stretches from category theory and proof assistants to number theory.
+I am a reliable person and a hard-working team player. I am a curious person, who is eager to learn. I am a mathematician through and through; always thinking about puzzles. Specifically, I have been educated in category theory, type theory and arithmetic geometry and I have a broad interest that stretches between and around these areas.
 
 Education
 ===
 
 | | |
 | --- | --- |
-| 2020-02 - 2023-11 | **MSc Computer Science** |
+| 2020-02 - 2024-12 | **MSc Computer Science** |
 | University | Delft University of Technology |
 | Track | Software Technology |
-| Thesis | Understanding and formalizing the paper *Classical lambda calculus in modern dress* |
+| Thesis | Universal Algebra, Univalent Foundations and the Untyped λ-Calculus |
 
 | | |
 | --- | --- |
@@ -82,15 +82,17 @@ Skills
 
 | | |
 | --- | --- |
-| **Windows, Linux** | I have a dual boot setup on my laptop. |
+| **Coq, Lean** | I formalized large parts of my master's thesis in the rocq proof assistant, and have worked with both rocq and lean for university courses and hobby projects. |
 | **Sagemath** | I worked a lot with sage during my master's thesis. |
 | **LaTeX** | I have worked extensively with LaTeX over the course of my bachelor's and master's programs. |
-| **Coq, Lean** | I worked with these proof assistants for the summer school, a university course and especially my thesis (coq). |
 | **HTML, CSS, JavaScript, Python, Java, C\#, ...** | I have worked with a variety of languages for hobby projects, study and work. |
+| **Windows, Linux** | I have a dual boot setup on my laptop. |
 | **Dutch** | Dutch is my native language. |
 | **English** | My proficiency in English is between level C1 and C2.
 
 Professional Memberships
 ===
 
-I was a member of the \textbf{Royal Dutch Mathematical Society} (Koninklijk Wiskundig Genootschap) from 2020 till 2023.
+I have been a member of the *UniMath Coordinating Committee* since April 2025.
+
+I was a member of the *Royal Dutch Mathematical Society* (Koninklijk Wiskundig Genootschap) between 2020 and 2023.
